@@ -33,6 +33,7 @@
   "devDependencies": {
     "aws-sdk": "^2.7.13",
     "env2": "^2.1.1",
+    "eslint": "^4.8.0",
     "mime-types": "^2.1.13",
     "nodemon": "^1.11.0"
   },
